@@ -36,5 +36,4 @@ eeg-ad-ftd-classification/
 - **preprocessing/**: xử lý EEG thô → spectrogram.  
 - **training/**: chứa script huấn luyện theo từng kiến trúc (CNN, ResNet, Transformer).  
 - **models/**: định nghĩa kiến trúc mạng.  
-- **experiments/**: tách riêng log, checkpoint, config để tiện quản lý.  
 - **notebooks/**: dùng để EDA, demo pipeline, visualization.  
