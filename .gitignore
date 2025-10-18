@@ -1,3 +1,5 @@
 data/processed/
 data/processed_png/
 data/dataset_split/
+data/processed_tensor/
+data/csv_split/
